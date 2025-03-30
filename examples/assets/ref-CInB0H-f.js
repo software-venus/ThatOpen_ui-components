@@ -1,4 +1,4 @@
-import{E as $}from"./lit-element-CToom8Wf.js";/**
+import{E as $}from"./lit-html-paDGiEfB.js";/**
  * @license
  * Copyright 2020 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
